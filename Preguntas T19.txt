@@ -1,0 +1,29 @@
+1º Que es un sistema de control de versiones distribuido?
+A) Un sistema con un único repositorio centralizado
+B) Un sistema donde cada usuario tiene una copia local del repositorio	"CORRECTA"
+C) Un sistema que no permite ramas de desarrollo
+D) Un sistema que no registra cambios en el código
+
+2º Cuál es uno de los sistemas de control de versiones más utilizados en la actualidad? 
+A) Mercurial 
+B) CVS 
+C) Git "CORRECTA"
+D) Perforce 
+
+3º Qué comando se utiliza en Git para subir los cambios al repositorio remoto? 
+A) git save 
+B) git upload 
+C) git push  "CORRECTA"
+D) git commit
+
+4º Qué tipo de repositorio es controlado por un conjunto de usuarios en un sistema centralizado? 
+A) Repositorio local 
+B) Repositorio distribuido 
+C) Repositorio remoto 
+D) Repositorio centralizado "CORRECTA"
+
+5º Qué herramienta de control de versiones permite tener un repositorio distribuido entre los desarrolladores? 
+A) SVN 
+B) CVS 
+C) Git "CORRECTA"
+D) Mercurial
