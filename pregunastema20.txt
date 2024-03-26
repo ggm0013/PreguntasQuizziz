@@ -1,0 +1,33 @@
+¿Cuáles son dos de los repositorios más importantes en la actualidad basados en el sistema de control de versiones Git? 
+A) Bitbucket y GitKraken 
+B) GitLab y GitHub 
+C) SVN y Mercurial 
+D) SourceForge y CVS
+
+¿Por qué es importante tener en cuenta los aspectos de seguridad al elegir un repositorio remoto para nuestro código? 
+A) Para poder compartir el proyecto con clientes o colaboradores 
+B) Para tener acceso exclusivo a funcionalidades avanzadas 
+C) Para reducir el costo de almacenamiento 
+D) Para mejorar la velocidad de carga del código
+
+¿Qué tipo de permisos pueden tener los usuarios en un repositorio remoto?
+A) Solo permiso de lectura 
+B) Solo permiso de escritura 
+C) Permiso de lectura y escritura 
+D) Permiso de administración total
+
+¿Qué tipo de arquitectura cloud permite utilizar el software a través de aplicaciones con conexiones remotas? 
+A) IaaS (Infraestructura como Servicio) 
+B) PaaS (Plataforma como Servicio)
+C) SaaS (Software como Servicio) 
+D) DaaS (Datos como Servicio)
+
+¿Qué funcionalidad ofrece la posibilidad de que los desarrolladores tengan una comunidad de seguidores? A) Integración continua B) Control de versiones C) Tareas sociales D) Gestión de incidencias
+
+Respuestas correctas:
+
+B) GitLab y GitHub
+A) Para poder compartir el proyecto con clientes o colaboradores
+C) Permiso de lectura y escritura
+C) SaaS (Software como Servicio)
+C) Tareas sociales
