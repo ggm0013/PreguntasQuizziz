@@ -1,0 +1,39 @@
+1¿Cuál es uno de los beneficios de utilizar un sistema de control de versiones en el desarrollo de software? 
+A) Facilita la generación automática de documentación 
+B) Permite introducir comentarios fácilmente en el código 
+C) Ayuda a sincronizar equipos en diferentes ubicaciones 
+D) Mejora el rendimiento de la aplicación 
+
+Respuesta correcta: C) Ayuda a sincronizar equipos en diferentes ubicaciones
+
+2¿Qué se recomienda hacer antes de subir modificaciones al repositorio en un sistema de control de versiones como Git? 
+A) Realizar una copia de seguridad en un disco externo
+B) Actualizar la copia local para verificar conflictos 
+C) Eliminar todos los comentarios del código 
+D) Enviar un correo electrónico al equipo de desarrollo 
+
+Respuesta correcta: B) Actualizar la copia local para verificar conflictos
+
+3¿Por qué se considera importante documentar correctamente el código en el desarrollo de software? 
+A) Para aumentar la complejidad del código 
+B) Para reducir el rendimiento de la aplicación 
+C) Para facilitar la detección de errores y su corrección 
+D) Para ocultar información a otros desarrolladores 
+
+Respuesta correcta: C) Para facilitar la detección de errores y su corrección
+
+4¿Qué puede suceder si no se utiliza correctamente un sistema de control de versiones en el desarrollo de software? 
+A) Se mejora la colaboración entre equipos 
+B) Se introducen errores al resolver conflictos de código 
+C) Se acelera el proceso de desarrollo 
+D) Se reduce la necesidad de documentación 
+
+Respuesta correcta: B) Se introducen errores al resolver conflictos de código
+
+5¿Cuál es una consecuencia de no documentar el código de manera adecuada en un proyecto de software? 
+A) Aumenta la velocidad de desarrollo 
+B) Facilita la colaboración entre desarrolladores 
+C) Dificulta la detección y corrección de errores 
+D) Mejora la escalabilidad del proyecto 
+
+Respuesta correcta: C) Dificulta la detección y corrección de errores
