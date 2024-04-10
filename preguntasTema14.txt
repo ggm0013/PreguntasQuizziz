@@ -1,0 +1,26 @@
+¿Qué se recomienda hacer si se obtienen múltiples soluciones candidatas en las pruebas A/B?
+ A) Elegir la solución más económica
+ B) Descartar todas las soluciones candidatas
+ C) Repetir el proceso de prueba y seleccionar la mejor solución <--
+ D) Implementar todas las soluciones candidatas
+ ¿Qué nivel de pruebas se menciona como uno de los más comunes en el desarrollo de software?
+ A) Pruebas de aceptación
+ B) Pruebas de regresión
+ C) Pruebas unitarias <--
+ D) Pruebas de usabilidad
+ ¿Cuál es uno de los enfoques recomendados para probar cambios en una función de código?
+ A) Pruebas de caja negra
+ B) Pruebas de caja gris
+ C) Pruebas de caja blanca <--
+ D) Pruebas de regresión
+ ¿Qué tipo de pruebas permiten conocer los detalles de implementación y dirigir las pruebas a
+ partes específicas del código?
+ A) Pruebas de usabilidad
+ B) Pruebas de regresión
+ C) Pruebas de caja blanca <--
+ D) Pruebas de integración
+¿Cuántos niveles de pruebas hay?
+ A) 2
+ B) 3 <--
+ C) 4
+ D) 5
