@@ -1,0 +1,27 @@
+¿Qué tipo de pruebas se incluyen en el cuarto nivel de pruebas según el documento?
+ A) Pruebas de rendimiento
+ B) Pruebas de aceptación "CORRECTA"
+ C) Pruebas de regresión
+ D) Pruebas de usabilidad
+ ¿Qué se recomienda hacer al tener una versión previa a la solución de un error y una solución
+ corregida?
+ A) Comparar ambas soluciones y elegir la más económica
+ B) Descartar la solución previa y quedarse con la solución corregida
+ C) Realizar pruebas de usabilidad en ambas soluciones
+ D) Comparar ambas soluciones para validar la corrección del error "CORRECTA"
+ ¿Qué tipo de pruebas se sugiere realizar al tener cambios específicos en una función de código?
+ A) Pruebas de regresión
+ B) Pruebas de integración
+ C) Pruebas de caja blanca "CORRECTA"
+ D) Pruebas de usabilidad
+ ¿Qué tipo de pruebas permiten ver todo el código y dirigir las pruebas a las partes modificadas?
+ A) Pruebas de caja negra
+ B) Pruebas de caja gris
+ C) Pruebas de caja blanca "CORRECTA"
+ D) Pruebas de aceptación
+¿Qué tipo de pruebas se recomienda realizar para validar la interfaz de usuario y la experiencia
+ del usuario?
+ A) Pruebas de regresión
+ B) Pruebas de usabilidad "CORRECTA"
+ C) Pruebas de integración
+ D) Pruebas de aceptación
