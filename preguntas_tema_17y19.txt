@@ -1,0 +1,73 @@
+
+
+¿Qué ventaja ofrece la programación orientada a objetos en la gestión de bases de datos?
+A) No ofrece ninguna ventaja
+B) Facilita la creación de bases de datos no relacionales 
+C) Permite la reutilización de código y estructuración de programas v
+D) Hace que sea más difícil conectar una base de datos a una aplicación 
+
+¿Cuál es el propósito de XAMPP en relación con las bases de datos?
+A) Editar documentos de texto 
+B) Crear presentaciones multimedia 
+C) Proporcionar un entorno para gestionar bases de datos relacionales v
+D) Desarrollar videojuegos
+
+¿Qué se necesita para ejecutar MySQL en XAMPP?
+A) Un servidor de correo electrónico 
+B) Un navegador web 
+C) Pulsar el botón Start en la sección MySQL v
+D) Instalar un programa de diseño gráfico 
+
+¿Qué herramienta se habilita al pulsar el botón Admin de MySQL en XAMPP?
+A) Un editor de código 
+B) Un programa de edición de video 
+C) PHPmyadmin para gestionar bases de datos v
+D) Un programa de diseño gráfico 
+
+¿Qué tipo de bases de datos ofrece XAMPP?
+A) Bases de datos no relacionales 
+B) Bases de datos en la nube 
+C) Bases de datos relacionales con MySQL v
+D) Bases de datos de archivos de texto
+
+¿Qué se debe hacer para lanzar operaciones sobre una base de datos en Java?
+A) Crear un objeto de tipo Scanner v
+B) Utilizar el método print() de la clase System 
+C) Crear un objeto de la clase Statement 
+D) Ejecutar el comando SQL en la consola del sistema 
+
+¿Qué tipo de consultas se pueden realizar con ordenación en SODA?
+A) Consultas simples 
+B) Consultas avanzadas v
+C) Consultas estructuradas 
+D) Consultas básicas 
+
+¿Qué se necesita para realizar consultas de datos estructurados en SODA?
+A) Objeto de tipo Funcionalidad 
+B) Objeto de tipo Query v
+C) Objeto de tipo Constraint 
+D) Objeto de tipo API 
+
+¿Qué se necesita para realizar consultas con concatenación en SODA?
+A) Objeto de tipo Funcionalidad 
+B) Objeto de tipo Query v
+C) Objeto de tipo Constraint 
+D) Objeto de tipo API 
+
+¿En qué tipo de base de datos se pueden realizar consultas con restricciones en SODA?
+A) Base de datos relacional 
+B) Base de datos orientada a objetos v
+C) Base de datos NoSQL 
+D) Base de datos distribuida 
+
+¿Qué se necesita para realizar consultas avanzadas con ordenación en SODA?
+A) Objeto de tipo Funcionalidad 
+B) Objeto de tipo Query v
+C) Objeto de tipo Constraint 
+D) Objeto de tipo API 
+
+¿En qué tipo de base de datos se pueden realizar consultas avanzadas con concatenación en SODA?
+A) Base de datos relacional 
+B) Base de datos orientada a objetos v
+C) Base de datos NoSQL 
+D) Base de datos distribuida
